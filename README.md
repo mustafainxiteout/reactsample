@@ -11,7 +11,7 @@ To get started with this application, follow these steps:
 1. Clone the repository:
 
 ```
-  git clone https://github.com/<username>/<repository>.git
+  git clone https://github.com/mustafainxiteout/reactsample.git
 ```
 
 2. Install dependencies:
